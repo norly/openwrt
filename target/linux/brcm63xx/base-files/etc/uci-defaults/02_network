@@ -78,6 +78,7 @@ DVG3810BN)
 96328A-1441N1 |\
 963281TAN |\
 963281T_TEF |\
+"F@ST2504n" |\
 96368MVNgr)
 	ucidef_set_interface_lan "eth0.1"
 	ucidef_add_switch "eth0" "1" "1"
